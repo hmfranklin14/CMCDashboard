@@ -1,0 +1,21 @@
+﻿CPT Code,Code Description,Charge Amount,Non-facility difference,Non-Facility Rate,Facility Rate,Units
+99495, Face-to-Face post-discharge appointment (within 14 days of discharge) , $332.00 ,98.35,229.58,131.23,1
+99496, Face-to-Face Post discharge appointment (within 7 days of discharge) , $448.00 ,132.93,310.69,177.76,1
+G0180,Medicare-covered home health services under a home health plan of care (patient not present), $420.00 ,NA,59.26,59.26,1
+G2211, Add-on code for visits that build longitudinal relationships with patients , $103.00 ,3.02,18.34,15.32,1
+98005, Synchronous audio-visual appointment of at least 20 minutes , $191.00 ,NA,NA,NA,1
+98006, Synchronous audio-visual appointment of at least 30 minutes , $288.00 ,NA,NA,NA,1
+98007, Synchronous audio-visual appointment of at least 40 minutes , $387.00 ,NA,NA,NA,1.5
+98013, Synchronous audio-only appointment of at least 20 minutes , $231.00 ,NA,NA,NA,1
+98014, Synchronous audio-only appointment of at least 30 minutes , $334.00 ,NA,NA,NA,1
+98015, Synchronous audio-only appointment of at least 40 minutes , $462.00 ,NA,NA,NA,1.5
+99203, New patient appointment of at least 30 minutes , NA ,46.32,125.16,78.84,1
+99204, New patient appointment of at least 45 minutes , $598.00 ,60.76,188.76,128,1.5
+99205, New patient appointment of at least 60 minutes , $809.00 ,76.87,253.74,176.87,2
+99211, Established patient appointment that doesn't require physician presence , NA ,16.79,24.95,8.16,1
+99213, Established patient appointment of at least 20 minutes , $251.00 ,37.93,99.63,61.7,1
+99214, Established patient appointment of at least 30 minutes , $365.00 ,51.36,142.45,91.09,1
+99215, Established patient appointment of at least 40 minutes , $382.00 ,67.14,202.59,135.45,1.5
+99417, Code for first hour of additional time spent with patient on E&M services , $211.00 ,NA,NA,NA,1
+G0438," Annual wellness visit, including personalized prevention plan of service, initial visit ", $420.00 ,NA,182.72,182.72,1
+G0439," Annual wellness visit, including personalized prevention plan of service, subsequent visit ", $251.00 ,NA,144.03,144.03,1
