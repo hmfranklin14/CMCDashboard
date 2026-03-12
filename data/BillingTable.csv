@@ -3,7 +3,7 @@
 99496,Face-to-Face Post discharge appointment (within 7 days of discharge),132.93,310.69,177.76,448,1
 G0180,Medicare-covered home health services under a home health plan of care (patient not present),NA,59.26,59.26,420,1
 G2211, Add-on code for visits that build longitudinal relationships with patients ,3.02,18.34,15.32,103,1
-99202,New patient appointment of at least 15 minutes,34.41,79,44.59,NA,
+99202,New patient appointment of at least 15 minutes,34.41,79,44.59,NA,.25
 99203,New patient appointment of at least 30 minutes,46.32,125.16,78.84,NA,1
 99204,New patient appointment of at least 45 minutes,60.76,188.76,128,598,1.5
 99205,New patient appointment of at least 60 minutes,76.87,253.74,176.87,809,2
