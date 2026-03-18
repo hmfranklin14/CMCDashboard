@@ -118,7 +118,7 @@ with right_col:
 
     if "billing_rows" not in st.session_state:
         st.session_state.billing_rows = [
-            {"CPT Code": cpt_options[0], "Percentage": 0.0}
+            {"CPT Code": cpt_options[0], "Percentage": 100.0}
         ]
 
     def add_row():
